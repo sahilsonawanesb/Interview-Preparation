@@ -1,7 +1,4 @@
-Okay, this is a big request! 100 questions is quite a lot, but I'll cover a broad range of JavaScript topics, from basics to more advanced concepts. I'll categorize them for easier understanding.
-
-Let's begin!
-
+## JavaScript Interview Quesions
 ---
 
 **I. JavaScript Basics & Fundamentals (1-20)**

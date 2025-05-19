@@ -1,5 +1,4 @@
-Okay, let's build a list of 100 questions and answers for the MERN stack (MongoDB, Express.js, React, Node.js). This will cover each component individually and how they work together.
-
+## Mern Interview Quesions
 ---
 
 **I. General MERN Stack & Architecture (1-10)**

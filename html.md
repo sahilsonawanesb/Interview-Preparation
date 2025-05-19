@@ -1,5 +1,4 @@
-Okay, here are 100 questions and answers focused on HTML (HyperText Markup Language).
-
+## HTML Interview Quesions
 ---
 
 **I. HTML Basics & Syntax (1-20)**

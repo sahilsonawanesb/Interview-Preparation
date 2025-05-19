@@ -1,5 +1,4 @@
-Okay, let's switch gears to Node.js! Here are 100 questions and answers specifically focused on Node.js concepts.
-
+## Node Interview Quesions
 ---
 
 **I. Node.js Fundamentals & Core Concepts (1-20)**

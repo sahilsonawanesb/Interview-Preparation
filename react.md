@@ -1,5 +1,4 @@
-Alright, let's dive into React! Here are 100 questions and answers covering various aspects of React.js.
-
+## React Interview Quesions
 ---
 
 **I. React Fundamentals & Core Concepts (1-20)**
