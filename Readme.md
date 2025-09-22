@@ -80,37 +80,7 @@ This repository includes questions across several categories:
 
 4. **Stay Updated**: Regularly check the [Releases section](https://github.com/anwarosyidi/100-interview-questions/releases) for updates. New questions and resources may be added over time.
 
-## Contribution Guidelines
 
-We welcome contributions to improve this repository. If you have questions, suggestions, or additional questions to add, please follow these guidelines:
-
-1. **Fork the Repository**: Click on the "Fork" button at the top right of the repository page.
-
-2. **Create a New Branch**: Create a new branch for your changes.
-
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-
-3. **Make Changes**: Add your questions or make improvements.
-
-4. **Commit Your Changes**: Commit your changes with a clear message.
-
-   ```bash
-   git commit -m "Add new question on [topic]"
-   ```
-
-5. **Push to Your Branch**: Push your changes to your forked repository.
-
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-
-6. **Create a Pull Request**: Navigate to the original repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
