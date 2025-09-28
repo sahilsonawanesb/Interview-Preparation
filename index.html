@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Lazy Loading Optimzation</title>
+        <link rel="stylesheet" href="./index.css">
+       
+        <style>
+            .navigation-menu{
+                font-size: 10px;
+            }
+        </style>
+    </head>
+
+
+
+    <body>
+<!--        
+  <div id="container">
+    <div data-id="102" data-category="product">
+        Iphone-15
+    </div>
+
+    <div data-id="101" data-category="tech">
+        Software Engineer
+    </div>
+
+    <div data-id="103" data-category="tech">
+        Frontend developer as follows:-
+    </div>
+
+
+  </div> -->
+
+  <!-- <div class="navigation-menu">
+
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Contact Us</a>
+  </div> -->
+
+
+  <!-- event propgation as follows -->
+   <!-- <div>
+    DIV
+        <form>
+            FORM
+            <button>
+                BUTTON
+            </button>
+        </form>
+   </div> -->
+
+   <ul id="job-list">
+    <li>Frontend Developer</li>
+    <li>Backend Developer</li>
+    <li>Software Developer</li>
+    <li>Cloud Engineer</li>
+</ul>
+
+
+
+
+ <script src="./script.js"></script>
+        <!-- <script>
+
+            // event delegation with data attributes.
+            const container = document.getElementById('container');
+
+            container.addEventListener('click', (event) => {
+                const clickDiv = event.target;
+                if(clickDiv.tagName === 'DIV'){
+                    console.log(clickDiv.dataset.id);
+                    console.log(clickDiv.dataset.category);
+                }
+            })
+
+            const newDiv = document.createElement("div");
+            newDiv.dataset.id = "104";
+            newDiv.dataset.category = "UI/UX designer";
+            newDiv.textContent = "UI Designer";
+            container.appendChild(newDiv);
+        </script> -->
+</html>
